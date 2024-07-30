@@ -11,3 +11,27 @@ Existing recordss may need updates, such as modifying quantities or updating pri
 
 Delete:
 The records can be deleted from the system if they are canceled or no longer valid. This involves executing SQL DELETE statements through Python to remove the corresponding records from the database.
+
+
+## Methodology
+1 Requirement Gathering: Identify the needs and requirements of the business.
+2 System Design: Design the architecture of the OMS.
+3 Database Design: Design the database schema to store order-related data.
+4 Implementation: Develop the OMS using suitable technologies.
+5 Testing: Test the OMS to ensure it meets the requirements.
+6 Deployment: Deploy the OMS in a production environment.
+7 Maintenance: Regularly update and maintain the OMS.
+
+## Required Libraries:
+msilib.schema: Font
+tkinter: tk, Frame, Label, ttk, messagebox, *
+cProfile: label
+distutils.cmd: Command
+pydoc: text
+re: X
+textwrap: fill
+turtle: bgcolor
+random
+datetime
+time
+mysql.connector
